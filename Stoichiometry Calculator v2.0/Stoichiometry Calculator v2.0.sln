@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoichiometry Calculator v2.0", "Stoichiometry Calculator v2.0.csproj", "{EB0C8B9D-28CB-4BBC-9143-704806D1EB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoichiometryCalculator.UnitTests", "..\StoichiometryCalculator.UnitTests\StoichiometryCalculator.UnitTests.csproj", "{AE83D161-8E31-48FE-A1E3-2A94835FF27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0C8B9D-28CB-4BBC-9143-704806D1EB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0C8B9D-28CB-4BBC-9143-704806D1EB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0C8B9D-28CB-4BBC-9143-704806D1EB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0C8B9D-28CB-4BBC-9143-704806D1EB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE83D161-8E31-48FE-A1E3-2A94835FF27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE83D161-8E31-48FE-A1E3-2A94835FF27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE83D161-8E31-48FE-A1E3-2A94835FF27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE83D161-8E31-48FE-A1E3-2A94835FF27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F01009-4DED-4540-87A2-7E0472D1CDDD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Stoichiometry_Calculator_v2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stoichiometry_Calculator_v2._0"
+        mc:Ignorable="d"
+        Title="Stoichiometry Calc v2.0" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Margin="0,10,0,0.5">
+        <Frame x:Name="Main"/>
+        <Menu Background="#B6329F" Width="Auto" VerticalAlignment="Top">
+            <MenuItem Header="Menu" MaxWidth="80" Background="White" Padding="8 3" FontSize="14">
+                <MenuItem Header="Home" Click="MenuItem_Home_Clicked" />
+                <MenuItem Header="Calculator" Click="MenuItem_Calculator_Clicked"/>
+                <MenuItem Header="About" Click="MenuItem_About_Clicked"/>
+                <MenuItem Header="Coming Soon" Click="MenuItem_ComingSoon_Clicked"/>
+                <Separator />
+                <MenuItem Header="_Exit" Click="MenuItem_Exit_Clicked"/>
+            </MenuItem>
+        </Menu>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="16">
+            Stoichiometry Calculator v2.0 by Lauchie Harvey
+        </TextBlock>
+    </Grid>
+</Window>
