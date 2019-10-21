@@ -77,7 +77,7 @@ namespace Stoichiometry_Calculator_v2._0
                 }
             }
         }
-        //Doesn't work with repeated elements because of elementIndex var.
+        //Doesn't work with repeated elements in a species because of elementIndex var.
         public void DetermineMolarMass() 
         {
             foreach (var element in Elements)
@@ -124,29 +124,3 @@ namespace Stoichiometry_Calculator_v2._0
         }
     }
 }
-/*              if (CheckIndexNotOutOfRange(_Species, elementIndex + 2) && Char.GetNumericValue(_Species[elementIndex + 2]) != -1 && Char.GetNumericValue(_Species[elementIndex + 1]) != -1)
-                {
-                    elementCoefficient = Char.GetNumericValue(_Species[elementIndex + 2]);
-                }
-                else if (CheckIndexNotOutOfRange(_Species, elementIndex + 1) && Char.GetNumericValue(_Species[elementIndex + 1]) != -1)
-                {
-                    elementCoefficient = Char.GetNumericValue(_Species[elementIndex + 1]);
-                }
-
-                int elementSymbolIndex = System.Array.IndexOf(elementSymbolArray, element);
- 
-                for (int i = 0; i < openBracketArray.Count; i++)
-                {
-                    if (elementIndex > openBracketArray[i] && elementIndex < closeBracketArray[i])
-                    {
-                        elementCoefficient *= (double)Char.GetNumericValue(_Species[closeBracketArray[i] + 1]);
-                        double TempMolarMass = elementMolarMassArray[elementSymbolIndex] * elementCoefficient;
-                        this.MolarMass += (elementMolarMassArray[elementSymbolIndex] * elementCoefficient);
-                        goto NextElement;
-                        
-                    }
-                }
-                this.MolarMass += elementMolarMassArray[elementSymbolIndex] * elementCoefficient;
-                NextElement:;
- * 
-*/

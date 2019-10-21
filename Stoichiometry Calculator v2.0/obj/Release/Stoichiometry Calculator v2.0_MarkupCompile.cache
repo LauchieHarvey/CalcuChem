@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Release\
 Stoichiometry_Calculator_v2._0
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\App.xaml
 5-1125179315
 
@@ -16,5 +16,5 @@ C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.
 13-1505183044
 AboutPage.xaml;CalculatorPage.xaml;ComingSoonPage.xaml;HomePage.xaml;MainWindow.xaml;
 
-False
+True
 

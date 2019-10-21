@@ -20,3 +20,25 @@ C:\Users\76552\Documents\Year 12\Other\C#\STOICH\Stoichiometry Calculator v2.0\o
 C:\Users\76552\Documents\Year 12\Other\C#\STOICH\Stoichiometry Calculator v2.0\obj\Debug\AboutPage.baml
 C:\Users\76552\Documents\Year 12\Other\C#\STOICH\Stoichiometry Calculator v2.0\obj\Debug\ComingSoonPage.g.cs
 C:\Users\76552\Documents\Year 12\Other\C#\STOICH\Stoichiometry Calculator v2.0\obj\Debug\ComingSoonPage.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\bin\Debug\Stoichiometry Calculator v2.0.exe.config
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\bin\Debug\Stoichiometry Calculator v2.0.exe
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\bin\Debug\Stoichiometry Calculator v2.0.pdb
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0.csprojAssemblyReference.cache
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\AboutPage.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\CalculatorPage.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\ComingSoonPage.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\HomePage.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\MainWindow.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\App.g.cs
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0_MarkupCompile.cache
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0_MarkupCompile.lref
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\AboutPage.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\CalculatorPage.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\ComingSoonPage.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\HomePage.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\MainWindow.baml
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0.g.resources
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry_Calculator_v2._0.Properties.Resources.resources
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0.csproj.GenerateResource.cache
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0.exe
+C:\Users\76552\Documents\Year 12\Other\C#\CalcuChem\Stoichiometry Calculator v2.0\obj\Debug\Stoichiometry Calculator v2.0.pdb
