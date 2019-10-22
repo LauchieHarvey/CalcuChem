@@ -55,7 +55,7 @@
                     <RadioButton x:Name="Moles" Grid.Column="1" Grid.Row="0" GroupName="MassOrMoles" VerticalAlignment="Center" IsChecked="True" Margin="5"/>
 
                     <TextBlock Grid.Column="0" Grid.Row="1" Text="Mass" FontSize="16"/>
-                    <RadioButton Grid.Column="1" Grid.Row="1" GroupName="MassOrMoles" VerticalAlignment="Center" Margin="5"/>
+                    <RadioButton x:Name="Mass" Grid.Column="1" Grid.Row="1" GroupName="MassOrMoles" VerticalAlignment="Center" Margin="5"/>
                 </Grid>
             </StackPanel>
             <Button Grid.Column="2" Grid.Row="0" Content="Submit" Margin="50 30" BorderThickness="3" FontWeight="Bold" Foreground="White" FontSize="18" Background="#B6329F" Click="MolesMassSpeciesFieldsClickEventListener"/>
